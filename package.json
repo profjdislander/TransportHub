@@ -1,0 +1,27 @@
+{
+  "name": "st-helena-transit-hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "St Helena Transit Hub - Taxi, Car Hire, and Public Transport Information",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "autoprefixer": "^10.4.16",
+    "leaflet": "^1.9.4",
+    "next": "^14.0.4",
+    "pdf-lib": "^1.17.1",
+    "postcss": "^8.4.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "tailwindcss": "^3.3.6"
+  }
+}
